@@ -1,5 +1,5 @@
 # FindNearestPlaceToTargetSales
-Find the nearest tagested brach who is eligible to do sale at low cost
+Find the nearest tageted branch who is eligible to do sales at low cost
 
 I have used geopy module to find the longitude and latitude of the location
 
