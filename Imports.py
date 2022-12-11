@@ -1,3 +1,5 @@
+# pip install geopy
+# pip install Nominatim
 from geopy.geocoders import Nominatim
 import GeoLocation as coordinate
 import Destinations as branch
